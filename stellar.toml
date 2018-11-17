@@ -1,0 +1,8 @@
+[[CURRENCIES]]
+code="{Paper}"
+issuer="{public key of issuing account}"
+display_decimals={integer}
+name="{Paper}"
+desc="{description of asset}"
+conditions="{conditions for usage and distributions of the asset}"
+image="{url of an image to associate with the asset}"
