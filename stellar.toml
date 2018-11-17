@@ -5,4 +5,4 @@ display_decimals={11}
 name="{Paper}"
 desc="{description of asset}"
 conditions="{conditions for usage and distributions of the asset}"
-image="{https://github.com/papertoken/paper/paperlogo.png}"
+image="{https://raw.githubusercontent.com/papertoken/paper/master/paperlogo.png}"
