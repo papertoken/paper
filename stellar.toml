@@ -1,8 +1,8 @@
 [[CURRENCIES]]
 code="{Paper}"
-issuer="{public key of issuing account}"
-display_decimals={integer}
+issuer="{GDS7GLWWA3PJMQF2Y57BIVYYVKPG46USOUHDEBVTV7VG7CUXRV5CVIP2}"
+display_decimals={11}
 name="{Paper}"
 desc="{description of asset}"
 conditions="{conditions for usage and distributions of the asset}"
-image="{url of an image to associate with the asset}"
+image="{https://github.com/papertoken/paper/paperlogo.png}"
